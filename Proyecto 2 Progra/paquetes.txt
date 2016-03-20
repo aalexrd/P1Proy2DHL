@@ -1,0 +1,36 @@
+207060306
+China
+Esta ruta pasa por Shangai
+aereo
+25
+China
+1000
+123
+Maxima
+402270739
+NewYork
+Esta ruta pasa por Times Square
+Maritimo
+30
+NewYork
+2000
+234
+Media
+401350290
+Paris
+Esta ruta pasa por la Torre Eiffel
+Terrestre
+35
+Paris
+3000
+345
+bajo
+302710625
+Miami
+Esta ruta pasa por Orlando
+Aereo
+40
+Miami
+4000
+456
+Maxima
